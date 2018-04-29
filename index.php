@@ -33,8 +33,8 @@
 					</button>
 					<div class="collapse navbar-collapse" id="navbarText">
 						<ul class="navbar-nav ml-auto text-right tk-linknav">
-							<li class="nav-item"><a class="nav-link text-light tk-link" href="#About">ABOUT</a></li>
-							<li class="nav-item"><a class="nav-link text-light tk-link" href="#Experiance">EXPERIENCE</a></li>
+							<li class="nav-item"><a class="nav-link text-light tk-link" href="#About">ABOUT 1</a></li>
+							<li class="nav-item"><a class="nav-link text-light tk-link" href="#Experiance">EXPERIENCE 2</a></li>
 							<li class="nav-item"><a class="nav-link text-light tk-link" href="#Skills">SKILLS</a></li>
 							<li class="nav-item"><a class="nav-link text-light tk-link" href="#Portfolio">PORTFOLIO</a></li>
 							<li class="nav-item"><a class="nav-link text-light tk-link" href="#Contact">CONTACT</a></li>
