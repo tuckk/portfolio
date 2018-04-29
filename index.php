@@ -48,7 +48,7 @@
 				<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 					<div class="carousel-inner">
 						<div class="carousel-item active tk-bgabout1 text-center">
-							<div class="display-4 tk-txt-0 pt-5">THATSAYA SAENGKULAB099999</div>
+							<div class="display-4 tk-txt-0 pt-5">THATSAYA</div>
 							<div class="h4">Web Designer / Front-end Developer</div>
 							<div class="tk-clear-1 mt-4">
 								<a href="https://www.facebook.com/betuckk" target="_blank"><img src="_template/tk_social1.svg" width="40"></a>
